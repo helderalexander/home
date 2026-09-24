@@ -1,7 +1,6 @@
 # Helder A. S. Costa — Academic Portfolio
 
-A simple, responsive academic portfolio inspired by the structure of the
-[Maria Brió Portfolio](https://github.com/JuditKaramazov/MariaBrioPortfolio).
+A simple and responsive academic portfolio
 
 ## Stack
 
