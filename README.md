@@ -1,4 +1,4 @@
-# Helder A. S. Costa — Academic Portfolio
+# Academic Portfolio
 
 A simple and responsive academic portfolio
 
